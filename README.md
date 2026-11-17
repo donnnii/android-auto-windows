@@ -1,7 +1,6 @@
 # Android Auto for Windows
 
-Ubah PC atau tablet Windows menjadi head unit Android Auto — tanpa mobil, tanpa kabel.
-Turn a Windows PC or tablet into an Android Auto head unit — no car, no cable needed.
+Ubah PC atau tablet Windows nggak kepake menjadi head unit Android Auto.
 
 ---
 
