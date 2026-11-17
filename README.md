@@ -95,6 +95,10 @@ Aplikasi menyimpan pengaturan di `settings.json` (dibuat otomatis): `Transport`,
 - **`adb devices` kosong:** setujui ulang prompt USB debugging, coba `adb kill-server` lalu `adb devices`, atau ganti mode USB ke **File transfer (MTP)**.
 - Jalankan ulang **head unit server** setelah ponsel di-restart.
 
+## Dukung proyek ini ☕
+
+Kalau proyek ini membantu, kamu bisa dukung lewat Saweria: [saweria.co/donnnii](https://saweria.co/donnnii)
+
 ---
 
 # English
@@ -184,6 +188,10 @@ The app stores settings in `settings.json` (created automatically): `Transport`,
 - **ADB not found (USB only):** install [Android Platform Tools](https://developer.android.com/tools/releases/platform-tools) and make sure `adb` is available in Command Prompt/PowerShell.
 - **`adb devices` shows nothing:** re-approve the USB debugging prompt, try `adb kill-server` then `adb devices`, or switch USB mode to **File transfer (MTP)**.
 - Restart the **head unit server** after every phone reboot.
+
+## Support this project ☕
+
+If this project helps you, you can support it via Saweria: [saweria.co/donnnii](https://saweria.co/donnnii)
 
 ---
 
